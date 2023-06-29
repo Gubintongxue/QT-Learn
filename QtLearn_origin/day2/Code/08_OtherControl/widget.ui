@@ -23,7 +23,7 @@
     </rect>
    </property>
    <property name="currentIndex">
-    <number>0</number>
+    <number>2</number>
    </property>
    <widget class="QWidget" name="page_6">
     <widget class="QTabWidget" name="tabWidget">
@@ -73,8 +73,8 @@
        <rect>
         <x>0</x>
         <y>0</y>
-        <width>132</width>
-        <height>447</height>
+        <width>149</width>
+        <height>339</height>
        </rect>
       </property>
       <layout class="QVBoxLayout" name="verticalLayout">
@@ -206,7 +206,7 @@
         <x>0</x>
         <y>0</y>
         <width>141</width>
-        <height>253</height>
+        <height>259</height>
        </rect>
       </property>
       <attribute name="label">
@@ -232,7 +232,7 @@
         <x>0</x>
         <y>0</y>
         <width>141</width>
-        <height>253</height>
+        <height>259</height>
        </rect>
       </property>
       <attribute name="label">
@@ -253,6 +253,14 @@
       </widget>
      </widget>
      <widget class="QWidget" name="page_3">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>0</y>
+        <width>141</width>
+        <height>259</height>
+       </rect>
+      </property>
       <attribute name="label">
        <string>黑名单</string>
       </attribute>
